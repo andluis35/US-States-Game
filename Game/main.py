@@ -32,7 +32,7 @@ def check_for_missing_states(states, written_states):
 
 def create_csv_file_with_missing_states(missing_states_dictionary):
     missing_states_data = pandas.DataFrame(missing_states_dictionary)
-    missing_states_data.to_csv("./missing_states.csv")
+    missing_states_data.to_csv("./missing_states_file.csv")
 
 def start_game():
     screen = turtle.Screen()
