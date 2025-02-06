@@ -1,5 +1,5 @@
 # Jogo de Adivinhação - Estados dos E.U.A.
-O objetivo do jogo consiste em adivinhar todos os 50 Estados do território norte-americano. Para iniciá-lo, basta executar o main.py
+O objetivo do jogo consiste em adivinhar todos os 50 Estados do território norte-americano.
 
 **JOGO EM FUNCIONAMENTO:**
 
